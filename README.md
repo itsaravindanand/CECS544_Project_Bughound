@@ -47,6 +47,12 @@ Bughound enables developers and testers to report bugs, track their status, and 
 ### Adding Function Areas for Programs 
 ![Adding_Function_Areas_page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Adding_Function_Areas_Page.png)
 
+## Testing Videos
+
+### [Part 1](https://www.youtube.com/watch?v=rJG6RzyZJU8)
+### [Part 2](https://www.youtube.com/watch?v=FxGbGtscBV8)
+### [Part 3](https://www.youtube.com/watch?v=zVdB5gBmDQQ)
+
 ## Installation
 ### Prerequisites
 - Java 11+
