@@ -25,7 +25,14 @@ Bughound enables developers and testers to report bugs, track their status, and 
 
 ## Screenshorts
 
+### Login Page:
+![Login page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Login_Page.png)
 
+### User Creation:
+![Login page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/User_Creation_Page.png)
+
+### User Creation:
+![Login page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/User_Creation_Page.png)
 
 ## Installation
 ### Prerequisites
