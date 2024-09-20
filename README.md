@@ -25,14 +25,27 @@ Bughound enables developers and testers to report bugs, track their status, and 
 
 ## Screenshorts
 
-### Login Page:
+### Bug Report Template
+![Bug_Report_Template](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Bug_Report_Template.png)
+
+### Login Page
 ![Login page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Login_Page.png)
 
-### User Creation:
-![Login page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/User_Creation_Page.png)
+### User Creation
+![User_Creation page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/User_Creation_Page.png)
 
-### User Creation:
-![Login page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/User_Creation_Page.png)
+### Bug Report
+![Bug_Report page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Bug_Report_1.png)
+![Bug_Report_page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Bug_Report_2.png)
+
+### Admin Dashboard
+![Admin page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Admin_Dashboard.png)
+
+### Adding Programs and Version 
+![Adding_Program_page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Adding_Programs_Page.png)
+
+### Adding Function Areas for Programs 
+![Adding_Function_Areas_page](https://github.com/itsaravindanand/CECS544_Project_Bughound/blob/main/BugHound_Application/Screenshots/Adding_Function_Areas_Page.png)
 
 ## Installation
 ### Prerequisites
