@@ -49,9 +49,12 @@ Bughound enables developers and testers to report bugs, track their status, and 
 
 ## Testing Videos
 
-### [Part 1](https://www.youtube.com/watch?v=rJG6RzyZJU8)
-### [Part 2](https://www.youtube.com/watch?v=FxGbGtscBV8)
-### [Part 3](https://www.youtube.com/watch?v=zVdB5gBmDQQ)
+### [Part 1](https://www.youtube.com/watch?v=rJG6RzyZJU8) 
+- Security and Input Validation, User Creation, Program Addition, Function Area Addition
+### [Part 2](https://www.youtube.com/watch?v=FxGbGtscBV8) 
+- Creating a new bug report, Viewing bug reports
+### [Part 3](https://www.youtube.com/watch?v=zVdB5gBmDQQ) 
+- Update Bug Reports, Add Attachments, Add Comments, Filter Bug Reports
 
 ## Installation
 ### Prerequisites
